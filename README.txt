@@ -1,3 +1,11 @@
+FOLDER ORDER:
+
+deteccion_yolo.py: First test, saves the YOLO detection images in "resultados_ojas"
+
+clasificacion.py: Classifies the plants and finds the centroid, saves the results in "resultados_plantas"
+
+Paltech: Folder with ROS2-related files
+
 ALGORITHM ACHIEVEMENTS
 
 I was able to estimate the center of the plants by first finding the center of each detected plant (bounding box) and then using DBSCAN to group nearby centers into clusters by distance. For each group, I took the outermost points to create a new rectangle encompassing all the leaves in the group, and from that rectangle I calculated the final centroid.
