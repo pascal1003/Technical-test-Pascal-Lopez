@@ -1,0 +1,24 @@
+[0.639s] Invoking command in '/home/palopezw/Paltech/ros2_ws/build/pkg_vision': PYTHONPATH=/home/palopezw/Paltech/ros2_ws/build/pkg_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/palopezw/Paltech/ros2_ws/build/pkg_vision/build --no-deps symlink_data
+[0.793s] running develop
+[0.870s] running egg_info
+[0.870s] creating pkg_vision.egg-info
+[0.870s] writing pkg_vision.egg-info/PKG-INFO
+[0.871s] writing dependency_links to pkg_vision.egg-info/dependency_links.txt
+[0.871s] writing entry points to pkg_vision.egg-info/entry_points.txt
+[0.871s] writing requirements to pkg_vision.egg-info/requires.txt
+[0.871s] writing top-level names to pkg_vision.egg-info/top_level.txt
+[0.871s] writing manifest file 'pkg_vision.egg-info/SOURCES.txt'
+[0.873s] reading manifest file 'pkg_vision.egg-info/SOURCES.txt'
+[0.873s] writing manifest file 'pkg_vision.egg-info/SOURCES.txt'
+[0.877s] running build_ext
+[0.877s] Creating /home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/python3.10/site-packages/pkg-vision.egg-link (link to .)
+[0.878s] Installing vision script to /home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/pkg_vision
+[0.878s] 
+[0.878s] Installed /home/palopezw/Paltech/ros2_ws/build/pkg_vision
+[0.878s] running symlink_data
+[0.878s] creating /home/palopezw/Paltech/ros2_ws/install/pkg_vision/share/ament_index
+[0.878s] creating /home/palopezw/Paltech/ros2_ws/install/pkg_vision/share/ament_index/resource_index
+[0.879s] creating /home/palopezw/Paltech/ros2_ws/install/pkg_vision/share/ament_index/resource_index/packages
+[0.879s] symbolically linking /home/palopezw/Paltech/ros2_ws/build/pkg_vision/resource/pkg_vision -> /home/palopezw/Paltech/ros2_ws/install/pkg_vision/share/ament_index/resource_index/packages
+[0.879s] symbolically linking /home/palopezw/Paltech/ros2_ws/build/pkg_vision/package.xml -> /home/palopezw/Paltech/ros2_ws/install/pkg_vision/share/pkg_vision
+[0.899s] Invoked command in '/home/palopezw/Paltech/ros2_ws/build/pkg_vision' returned '0': PYTHONPATH=/home/palopezw/Paltech/ros2_ws/build/pkg_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/palopezw/Paltech/ros2_ws/build/pkg_vision/build --no-deps symlink_data

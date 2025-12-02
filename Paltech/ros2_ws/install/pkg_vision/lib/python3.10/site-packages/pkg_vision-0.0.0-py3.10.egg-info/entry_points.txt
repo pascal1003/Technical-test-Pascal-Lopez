@@ -1,0 +1,4 @@
+[console_scripts]
+receptor = pkg_vision.receptor:main
+vision = pkg_vision.vision:main
+

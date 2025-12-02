@@ -1,0 +1,21 @@
+[0.418s] Invoking command in '/home/palopezw/Paltech/ros2_ws/src/pkg_vision': PYTHONPATH=/home/palopezw/Paltech/ros2_ws/build/pkg_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pkg_vision build --build-base /home/palopezw/Paltech/ros2_ws/build/pkg_vision/build install --record /home/palopezw/Paltech/ros2_ws/build/pkg_vision/install.log --single-version-externally-managed install_data
+[0.556s] running egg_info
+[0.556s] writing ../../build/pkg_vision/pkg_vision.egg-info/PKG-INFO
+[0.556s] writing dependency_links to ../../build/pkg_vision/pkg_vision.egg-info/dependency_links.txt
+[0.557s] writing entry points to ../../build/pkg_vision/pkg_vision.egg-info/entry_points.txt
+[0.557s] writing requirements to ../../build/pkg_vision/pkg_vision.egg-info/requires.txt
+[0.557s] writing top-level names to ../../build/pkg_vision/pkg_vision.egg-info/top_level.txt
+[0.558s] reading manifest file '../../build/pkg_vision/pkg_vision.egg-info/SOURCES.txt'
+[0.558s] writing manifest file '../../build/pkg_vision/pkg_vision.egg-info/SOURCES.txt'
+[0.559s] running build
+[0.559s] running build_py
+[0.559s] running install
+[0.559s] running install_lib
+[0.560s] running install_data
+[0.560s] running install_egg_info
+[0.561s] removing '/home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/python3.10/site-packages/pkg_vision-0.0.0-py3.10.egg-info' (and everything under it)
+[0.561s] Copying ../../build/pkg_vision/pkg_vision.egg-info to /home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/python3.10/site-packages/pkg_vision-0.0.0-py3.10.egg-info
+[0.562s] running install_scripts
+[0.576s] Installing vision script to /home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/pkg_vision
+[0.576s] writing list of installed files to '/home/palopezw/Paltech/ros2_ws/build/pkg_vision/install.log'
+[0.592s] Invoked command in '/home/palopezw/Paltech/ros2_ws/src/pkg_vision' returned '0': PYTHONPATH=/home/palopezw/Paltech/ros2_ws/build/pkg_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/palopezw/Paltech/ros2_ws/install/pkg_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pkg_vision build --build-base /home/palopezw/Paltech/ros2_ws/build/pkg_vision/build install --record /home/palopezw/Paltech/ros2_ws/build/pkg_vision/install.log --single-version-externally-managed install_data
