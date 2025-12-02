@@ -28,3 +28,5 @@ Time wasted installing libraries: the computer had outdated versions of certain 
 Adjusting DBSCAN parameters
 
 ROS-Python integration: initial setup takes time
+
+Problems with submission: I noticed when uploading the repository that the folder was empty, and it took me a long time to find and copy the correct files to the repository.
